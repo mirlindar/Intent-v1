@@ -155,6 +155,7 @@ a.items {
   border: 2px solid #2978b5;
   border-radius: 8px;
   margin: 10px;
+  text-decoration:none;
 }
 a.items.active {
   background-color: #2978b5;

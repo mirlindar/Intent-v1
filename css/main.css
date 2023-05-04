@@ -44,7 +44,7 @@ div#navbarSupportedContent {
 }
 
 .navbar-nav li {
-  padding: 0px 15px;
+  padding: 10px 25px;
   /* margin-right: 10px; */
   color: black;
   background-color: #dadcde;
@@ -53,6 +53,7 @@ div#navbarSupportedContent {
 .navbar-nav li a {
   text-decoration: none;
   font-size: 12px;
+  padding:0px;
 }
 li.nav-item.fs-2.active {
   background-color: #2978b5;

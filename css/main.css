@@ -1,6 +1,4 @@
 body {
-  width: 100vw;
-  height: 100vh;
   margin: 0;
   padding: 0;
 }
@@ -171,4 +169,14 @@ a.items.active {
 }
 .footer-section {
   padding: 80px 0;
+  background-color:#0077b8;
+}
+.copyright-section{
+  background-color: #006298;
+  display: flex;
+  align-items: center;
+
+}
+#copyright{
+  align-items: center;
 }
